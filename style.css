@@ -1,0 +1,22 @@
+
+img{
+    width: 100%;
+}
+.text-container{
+    margin-top: 40px;
+}
+.main-container{
+    text-align: center;
+     padding-top: 20px; 
+    
+}
+h1{
+    font-weight: bold;
+    color:#183b56 ;
+}
+.btn{
+    font-weight: bold;
+}
+p{
+    color:#5a7184 ;
+}
